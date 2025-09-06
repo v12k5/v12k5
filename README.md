@@ -20,24 +20,22 @@
 ## 🌟 Featured Projects
 - 🦾 [Indoor AI for the Blind](https://github.com/yourusername/indoor-ai)  
    → Helps with indoor scene understanding through object detection, OCR & TTS  
-- 🤖 [FinBot](https://github.com/yourusername/finbot)  
+- 🤖 [FinBot](https://github.com/v12k5/FinBot1)  
    → AI-powered financial assistant for smarter money decisions
-- 🎶 [Emotion-based Music Player](https://github.com/yourusername/emotion-music)  
- → Detects facial emotions in real-time & plays songs using Spotify API
+- 🎶 [Emotion-based Music Player](https://github.com/v12k5/Emotion-based-music-recommendation)  
+   → Detects facial emotions in real-time & plays songs using Spotify API
 
 ---
 
 ## 📊 GitHub Stats
-![Pandu's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
+![Pandu's GitHub stats](https://github-readme-stats.vercel.app/api?username=v12k5&show_icons=true&theme=tokyonight)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v12k5&layout=compact&theme=tokyonight)  
 
 ---
 
 ## 🌐 Connect With Me
-- 💼 [LinkedIn](https://linkedin.com/in/your-link)  
-- 🌎 [Portfolio](https://yourwebsite.com)  
-- 📧 Email: youremail@example.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/pvkvarma5/)
 
 ---
 ✨ _“Building AI projects that bridge creativity with real-world impact.”_
