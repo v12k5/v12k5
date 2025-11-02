@@ -13,7 +13,7 @@
 - **Languages**: Python, C++, SQL  
 - **AI/ML**: PyTorch, TensorFlow, Scikit-Learn  
 - **Data**: Pandas, NumPy, Matplotlib, Seaborn  
-- **Cloud & Tools**: AWS, Git, Docker, FastAPI  
+- **Cloud & Tools**: AWS, Git, Docker  
 
 ---
 
