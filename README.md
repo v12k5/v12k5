@@ -79,7 +79,7 @@ Tech: React, Node.js, PostgreSQL, Prisma, JWT
 Tech: Python, MFCC, ZCR, TensorFlow/PyTorch  
 - Developed **AI-assisted speech enhancement** with compressive sensing  
 - Built ML-based sensing matrix selector for improved reconstruction accuracy  
-
+🔗 https://github.com/v12k5/AudiSense
 ---
 
 ## 📚 Education  
