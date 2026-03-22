@@ -1,6 +1,6 @@
 <div align="center">
 
-![banner](https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:4a0080,100:ff006e&height=200&section=header&text=Vasanth%20Kumar%20Varma&fontSize=45&fontColor=ffffff&animation=twinkling&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Cloud%20Practitioner&descSize=16&descAlignY=75&stroke=ffffff&strokeWidth=1)
+![banner](https://capsule-render.vercel.app/api?type=shark&color=timeAuto&height=200&section=header&text=Vasanth%20Kumar%20Varma&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=40&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Cloud%20Practitioner&descSize=17&descAlignY=65&descColor=fff)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pvkvarma5/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/v12k5)
@@ -88,6 +88,6 @@ End-to-end blogging platform with JWT authentication, type-safe APIs via Hono + 
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=venom&color=0:ff006e,50:4a0080,100:0f0c29&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=shark&color=timeAuto&height=120&section=footer&reversal=true)
 
 </div>
