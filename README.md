@@ -1,109 +1,93 @@
-# 👋 Hi, I'm **P. Vasanth Kumar Varma (Pvk)**
+<div align="center">
 
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=P.%20Vasanth%20Kumar%20Varma&fontSize=45&fontColor=ffffff&animation=fadeIn)
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Vasanth%20Kumar%20Varma&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Cloud%20Practitioner&descSize=16&descAlignY=75)
 
-## 🚀 About Me  
-- 🎓 **Electronics & Computer Engineering (2022–2026)**  
-- 🤖 Passionate about **AI, Deep Learning, Full-Stack Engineering & Cloud**  
-- 💡 I enjoy building solutions that combine **LLMs, RAG, cloud systems, and intelligent apps**  
-- 🔥 Currently building **1 Deep Learning / AI project every week**  
-- ☁️ Cloud-skilled — **AWS Cloud Practitioner Certified**  
-- 🎯 2025 Goal: **Work on impactful AI-driven open-source projects**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pvkvarma5/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/v12k5)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pvkvarma5@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=v12k5&style=flat-square&color=7c3aed)](https://github.com/v12k5)
+
+</div>
 
 ---
 
-## 🏷️ Developer Badges  
+### About
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white)
+Electronics & Computer Engineering student (2022–2026) at **Amrita Vishwa Vidyapeetham** · CGPA **8.47**
 
-### 📈 GitHub Profile Badges  
+I build production-grade AI systems — from fine-tuned LLMs and RAG pipelines to full-stack applications. Currently shipping **one Deep Learning project per week** and working towards meaningful contributions in open-source AI.
+
+> *"Building AI systems that blend creativity, engineering, and real-world impact."*
+
+---
+
+### Tech Stack
+
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**AI / ML**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+**Full-Stack**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+**Cloud / DevOps**
+![AWS](https://img.shields.io/badge/AWS_Certified-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+---
+
+### Featured Projects
+
+**[FinBot – AI-Powered Banking Assistant](https://github.com/v12k5/FinBot1)** `2025`
+
+Conversational banking assistant built on a two-stage LLM pipeline (LoRA-tuned DistilBERT + 4-bit Mistral-7B) with a hybrid RAG + memory system using Pinecone and Mem0AI. Achieved **80% latency reduction** and **70% Precision@5** in retrieval.
+
+`PostgreSQL` `Next.js` `Prisma` `RAG` `LoRA` `Mistral-7B`
+
+---
+
+**[AudiSense – AI Speech Enhancement for Hearing Aids](https://github.com/v12k5/AudiSense)** `2025`
+
+ML-driven speech enhancement pipeline combining compressive sensing with a learned sensing matrix selector. Processes audio via MFCC and ZCR features for real-time reconstruction accuracy.
+
+`Python` `PyTorch` `TensorFlow` `MFCC` `Signal Processing`
+
+---
+
+**[Blogify – Full-Stack Blogging Platform](https://github.com/v12k5)** `2025`
+
+End-to-end blogging platform with JWT authentication, type-safe APIs via Hono + Zod, and a clean React frontend.
+
+`React` `Node.js` `PostgreSQL` `Prisma` `JWT`
+
+---
+
+### GitHub Stats
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=v12k5&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+
 ![Followers](https://img.shields.io/github/followers/v12k5?label=Followers&style=social)
+&nbsp;
 ![Stars](https://img.shields.io/github/stars/v12k5?style=social)
-![Views](https://komarev.com/ghpvc/?username=v12k5&color=blueviolet)
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack  
+<div align="center">
 
-### 👨‍💻 Programming  
-- 🐍 Python  
-- 💻 C++  
-- 💽 SQL  
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer)
 
-### 🤖 AI & Deep Learning  
-- 🔥 PyTorch  
-- 🧠 TensorFlow  
-- 📊 NumPy, SciPy  
-- 🎧 Speech Processing (MFCC, ZCR, noise reduction algorithms)
-
-### ☁️ Cloud & DevOps  
-- ☁️ AWS (Cloud Foundations Certified)  
-- 🐳 Docker  
-- 🔧 GitHub, CI/CD  
-- 📦 Kubernetes (Basics)
-
-### 🛡️ Networks & Cybersecurity  
-- 🌐 TCP/IP, DNS, DHCP  
-- 🔥 Firewalls, VPNs  
-- ⚖️ Load Balancing  
-
----
-
-## 🌟 Featured Projects  
-
-### 🤖 **FinBot – AI-Powered Intelligent Banking Assistant (2025)**  
-Tech: PostgreSQL, Next.js, Prisma, LLMs, RAG  
-- Built a **two-stage LLM pipeline** using LoRA-tuned DistilBERT + 4-bit Mistral-7B  
-- Reduced latency by **80%**, enabling real-time conversational banking  
-- Designed a **hybrid RAG + memory** system (Pinecone + Mem0AI) with **70% Precision@5**  
-🔗 https://github.com/v12k5/FinBot1  
-
----
-
-### ✍️ **Blogify – Full-Stack Blogging Platform (2025)**  
-Tech: React, Node.js, PostgreSQL, Prisma, JWT  
-- Built end-to-end blogging platform with secure JWT authentication  
-- Created backend APIs (Node.js + Hono) with Zod validation  
-
----
-
-### 🎧 **AI-Driven Speech Enhancement System for Hearing Aids (2025)**  
-Tech: Python, MFCC, ZCR, TensorFlow/PyTorch  
-- Developed **AI-assisted speech enhancement** with compressive sensing  
-- Built ML-based sensing matrix selector for improved reconstruction accuracy  
-🔗 https://github.com/v12k5/AudiSense
----
-
-## 📚 Education  
-**B.Tech – Electronics & Computer Engineering (2022–2026)**  
-Amrita Vishwa Vidyapeetham — **CGPA: 8.47**  
-
----
-
-## 🌱 Leadership – Live-In-Labs (2025)  
-- Worked with farmers in **Uttarakhand** to design eco-friendly pesticide alternatives  
-- Applied **design thinking + community collaboration** to reduce crop losses
-
----
-
-## 📊 GitHub Stats  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v12k5&layout=compact&theme=tokyonight)
-
----
-
-## 🌐 Connect With Me  
-- 💼 LinkedIn: https://www.linkedin.com/in/pvkvarma5/  
-- 🐙 GitHub: https://github.com/v12k5  
-- ✉️ Email: pvkvarma5@gmail.com  
-
----
-
-### ✨ *“Building AI systems that blend creativity, engineering, and real-world impact.”*
+</div>
