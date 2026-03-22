@@ -21,10 +21,12 @@
   </a>
   &nbsp;
   <a href="mailto:pvkvarma5@gmail.com" target="_blank">
-    <img alt="Gmail" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg"/>
+    <img alt="Gmail" width="36" height="36" src="https://img.icons8.com/color/48/gmail-new.png"/>
   </a>
   &nbsp;
-  [![Profile Views](https://komarev.com/ghpvc/?username=v12k5&style=flat-square&color=a855f7)](https://github.com/v12k5)
+  <a href="https://github.com/v12k5" target="_blank">
+    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=v12k5&style=flat-square&color=a855f7"/>
+  </a>
 </p>
 
 <br clear="right"/>
