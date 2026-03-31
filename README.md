@@ -108,13 +108,5 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=v12k5&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-<p align="center">
-  <em>"The mind that opens to a new idea never returns to its original size."</em><br/>
-  — Albert Einstein
-</p>
-
 <!-- Footer -->
 ![footer](https://capsule-render.vercel.app/api?type=venom&color=0:ff006e,50:4a0080,100:0f0c29&height=120&section=footer)
